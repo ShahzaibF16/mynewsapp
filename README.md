@@ -1,11 +1,6 @@
 # news_bytes
 
-News for the GenZ
-
-![alt text](https://github.com/suyash-03/NewsBytes/blob/master/assets/img1.jpeg?)
-![alt text](https://github.com/suyash-03/NewsBytes/blob/master/assets/img2.jpeg?raw=true)
-![alt text](https://github.com/suyash-03/NewsBytes/blob/master/assets/img3.jpeg?raw=true)
-![alt text](https://github.com/suyash-03/NewsBytes/blob/master/assets/img4.jpeg?raw=true)
+News for the App
 
 
 ## Getting Started
